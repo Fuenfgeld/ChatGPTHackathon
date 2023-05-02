@@ -31,3 +31,6 @@ Don't miss out on this exciting event filled with mind-blowing tech, networking 
 Mark your calendars, and see you on May 12th, 2023! 🚀🎉
 
 The DIA Hackathon Team
+
+## Litrature
+- https://towardsdatascience.com/generative-question-answering-with-long-term-memory-c280e237b144
