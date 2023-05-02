@@ -7,6 +7,7 @@ Welcome to the GitHub repository for the DIA Hackathon 2023! Join us on May 12th
 - [Getting Started](#getting-started)
 - [Project Structure](#project-structure)
 - [Contributing](#contributing)
+- [Literature](#Literature)
 
 ## Introduction 🎯
 Get ready for an electrifying experience as we revolutionize clinical studies with ChatGPT (powered by OpenAI's GPT-4 model) and improve the overall experience for study participants. Our mission is to streamline Clinnova's study protocol and data protection notice using cutting-edge techniques like string embeddings, vector databases, and OpenAI API services. 🤖
@@ -32,5 +33,7 @@ Mark your calendars, and see you on May 12th, 2023! 🚀🎉
 
 The DIA Hackathon Team
 
-## Litrature
-- https://towardsdatascience.com/generative-question-answering-with-long-term-memory-c280e237b144
+## Literature 📖
+- [ChatGPT long term memory](https://towardsdatascience.com/generative-question-answering-with-long-term-memory-c280e237b144) 
+- [OpenAI API Documentation](https://platform.openai.com/docs/guides/embeddings)
+- 
