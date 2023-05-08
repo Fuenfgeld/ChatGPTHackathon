@@ -14,15 +14,15 @@ Get ready for an electrifying experience as we revolutionize clinical studies wi
 
 ## Getting Started 🚦
 
-1. **Clone the repository**: Clone this repository to your Google Colab. 💻
+1. **Open the two Colab Notebooks**: Open the two Colab Notebooks [SemanticSearchUsingEmbeddingVectors](https://colab.research.google.com/github/Fuenfgeld/ChatGPTHackathon/blob/main/SemanticSearchUsingEmbeddingVectors.ipynb) and [TextEmbedding](https://colab.research.google.com/github/Fuenfgeld/ChatGPTHackathon/blob/main/TextEmbedding.ipynb). 💻
 
-2. **Install required packages**: Install necessary packages, including OpenAI API and Tiktoken. 📦
+2. **Mount your google drive**: Add the shared folder containing required material to your google drive and mount the folder into the colab book. 📦
 
-3. **Add your OpenAI API key**: Obtain your OpenAI API key from the OpenAI platform and add it to a file named `APIkey.py`. 🔑
+3. **Add your OpenAI API key**: Obtain your OpenAI API key from the shared folder`APIkey.py`. 🔑
 
 ## Project Structure 📁
 - `TextEmbeddingExample.ipynb`: A Jupyter notebook to get started with text embeddings using OpenAI API. 📚
-- `assets/`: Folder containing additional resources and files. 🖼️
+- `SemanticSearchUsingEmbeddingVectors.ipynb`: A Jupyter notebook to get started with semantic embedding vector search. 📚
 
 ## Contributing 🤝
 Unleash your inner genius and join us in crafting the future of clinical studies. Everyone is invited! Feel free to contribute to this project by submitting a pull request or raising an issue on the GitHub repository. 💡
