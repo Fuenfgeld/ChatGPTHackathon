@@ -1,4 +1,4 @@
-# DIA Hackathon 2023: Revolutionizing Clinical Studies with ChatGPT 🚀🌐
+# DIA Hackathon May 2023: Revolutionizing Clinical Studies with ChatGPT 🚀🌐
 
 Welcome to the GitHub repository for the DIA Hackathon 2023! Join us on May 12th, 2023, from 14:00 to 17:00, as we aim to create a seamless Q&A system for Clinnova's study participants using ChatGPT, string embeddings, and vector databases. 🎉
 
