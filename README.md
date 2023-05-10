@@ -19,6 +19,10 @@ Get ready for an electrifying experience as we revolutionize clinical studies wi
 2. **Mount your google drive**: Add the shared folder containing required material to your google drive and mount the folder into the colab book. 📦
 
 3. **Add your OpenAI API key**: Obtain your OpenAI API key from the shared folder`APIkey.py`. 🔑
+4. **Check out openAI examples**
+* Example1 [Answering questions using embeddings](https://github.com/openai/openai-cookbook/blob/main/examples/Question_answering_using_embeddings.ipynb)
+* Example2 [Get embeddings](https://github.com/openai/openai-cookbook/blob/main/examples/Get_embeddings.ipynb)
+
 
 ## Project Structure 📁
 - `TextEmbeddingExample.ipynb`: A Jupyter notebook to get started with text embeddings using OpenAI API. 📚
